@@ -1,0 +1,10 @@
+# Ignore Windows executables
+*.exe
+*.dll
+
+# Ignore Linux/Mac executables
+*.out
+*.bin
+
+# Ignore temporary files
+*.o
